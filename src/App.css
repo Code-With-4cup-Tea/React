@@ -1,0 +1,50 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.useeff{
+  background-color:#FFC312;
+  text-align: center;
+  font-size: 30px;
+  font-weight: bolder;
+  padding: 8px;
+  color: white;
+  border-radius: 150px;
+}
+
+button{
+  font-size: 25px;
+  color: white;
+  font-weight: 700;
+  background-color: black;
+  width: 150px;
+  height: 100px;
+  margin: 5px;
+  
+}
+
+.data{
+  display: flex;
+  color: #ffffff;
+  background-color: rgba(77, 79, 240, 0.822);
+  font-size: 20px;
+ margin: 5px;
+justify-content: space-between;
+padding: 5px;
+}
+
+.useeff NavLink {
+  margin-left: 50px;
+}
+
+
+.spin{
+  width: 100vw;
+ min-height: 400px;
+  display: flex;
+  justify-content: center;
+ align-items: center;
+ flex-direction: column;
+}
